@@ -1,5 +1,5 @@
 <!-- Banner -->
-![GitHub Banner](https://raw.githubusercontent.com/kyechan99/capsule-render/main/demo/header.png)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:1e90ff&height=250&section=header&text=Abror%20Rahmatullah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Developer%20|%20AI%20Enthusiast%20|%20REST%20API%20Specialist&descAlignY=55&descAlign=50)
 
 # 👋 Hi, I'm Abror Rahmatullah  
 
