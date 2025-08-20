@@ -49,7 +49,6 @@
 - [🤖 AI Chatbot with Flask](https://github.com/abrorrahmatullah/ai-chatbot-flask) – Offline AI chatbot with file upload & chat history  
 - [🧠 Local AI with Ollama](https://github.com/abrorrahmatullah/ollama-ai-integration) – Experimenting with DeepSeek LLM + Flask integration  
 - [📅 Single Source of Truth (Flask)](https://github.com/AbrorRahmatullah/single-source-of-truth) – Single Source of Truth app for structured data  
-- [🚢 Order Management API (Django)](https://github.com/abrorrahmatullah/order-management-api) – REST API for vessel order management integrated with Odoo  
 
 ---
 
